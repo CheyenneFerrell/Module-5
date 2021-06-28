@@ -1,0 +1,16 @@
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\bin\Debug\netcoreapp3.1\Assignment-5.exe
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\bin\Debug\netcoreapp3.1\Assignment-5.deps.json
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\bin\Debug\netcoreapp3.1\Assignment-5.runtimeconfig.json
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\bin\Debug\netcoreapp3.1\Assignment-5.runtimeconfig.dev.json
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\bin\Debug\netcoreapp3.1\Assignment-5.dll
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\bin\Debug\netcoreapp3.1\Assignment-5.pdb
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\obj\Debug\netcoreapp3.1\Assignment-5.csprojAssemblyReference.cache
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\obj\Debug\netcoreapp3.1\Assignment_5.Form1.resources
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\obj\Debug\netcoreapp3.1\Assignment-5.csproj.GenerateResource.cache
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\obj\Debug\netcoreapp3.1\Assignment-5.AssemblyInfoInputs.cache
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\obj\Debug\netcoreapp3.1\Assignment-5.AssemblyInfo.cs
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\obj\Debug\netcoreapp3.1\Assignment-5.csproj.CoreCompileInputs.cache
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\obj\Debug\netcoreapp3.1\Assignment-5.dll
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\obj\Debug\netcoreapp3.1\Assignment-5.pdb
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\obj\Debug\netcoreapp3.1\Assignment-5.genruntimeconfig.cache
+C:\Users\Princess Chey\source\repos\Assignment-5\Assignment-5\obj\Debug\netcoreapp3.1\Assignment_5.ModlessDialog.resources
